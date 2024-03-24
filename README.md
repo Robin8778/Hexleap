@@ -1,5 +1,7 @@
 ## Hexleap Frontend Assignment
 
+Deployed Link: https://hexleap-three.vercel.app/
+
 ## ScreenShots
 
 ## Desktop Light Mode
